@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644568675024",
+    "project_id": "game-of-chess-f4fbb",
+    "storage_bucket": "game-of-chess-f4fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644568675024:android:9080ff258f07b2d30824d5",
+        "android_client_info": {
+          "package_name": "com.savss.flutter_chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644568675024-bqj0cnm7856u5vp74r1c3dg6pg3v2ur1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbW9sWE-5ZNKBdOQEjkWXSzwroj4eKMRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644568675024-bqj0cnm7856u5vp74r1c3dg6pg3v2ur1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

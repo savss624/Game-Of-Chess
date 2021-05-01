@@ -1,0 +1,46 @@
+name: flutter_chess
+description: A new Flutter application.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  chess: ^0.6.6
+  flutter_chess_board: ^0.9.7
+  page_transition: ^1.1.7+5
+  shared_preferences:
+  animated_text_kit: ^2.5.4
+  flutter_login: ^1.0.14
+  flutter_icons: ^1.1.0
+  #firebase_auth: ^0.18.3
+  fluttertoast: ^7.1.5
+  cloud_firestore: ^0.14.3+1
+  firebase_core: ^0.5.2+1
+  cupertino_icons: ^1.0.2
+  flutter_tts: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.jpg"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+  fonts:
+    - family: MarcellusSC
+      fonts:
+        - asset: assets/fonts/MarcellusSC-Regular.ttf
